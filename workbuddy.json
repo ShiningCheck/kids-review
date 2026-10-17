@@ -1,0 +1,10 @@
+{
+  "display_name": "儿童学习复盘录音精剪",
+  "display_name_en": "Kids Review Audio Editing",
+  "description_zh": "儿童每日学习复盘录音精剪：转写亲子对话、删冗余、隐私哔声，并生成逐字稿、封面、字幕和成片视频。",
+  "description_en": "Edit children's daily learning review recordings: transcribe parent-child conversations, remove redundant content, beep private terms, and produce transcripts, covers, subtitles, and MP4 videos.",
+  "category": "productivity",
+  "version": "0.3.0",
+  "author": "查查",
+  "license": "MIT"
+}
